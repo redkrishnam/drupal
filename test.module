@@ -1,0 +1,6 @@
+<?php
+test_form_alter(){
+echo "AAAAA";
+}
+
+?>
